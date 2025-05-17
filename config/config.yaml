@@ -1,4 +1,4 @@
-# Глобальные настройки VoiceBlock
+# Глобальные настройки TruckAI
 # Пример структуры:
 openai_api_key: "YOUR_OPENAI_KEY"
 twilio_account_sid: "YOUR_TWILIO_SID"
