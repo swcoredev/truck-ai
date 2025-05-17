@@ -1,0 +1,42 @@
+# Виртуальные окружения
+.venv/
+venv/
+ENV/
+env/
+
+# Python кэш
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Конфиги и ключи
+.env
+.env.*
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+
+# IDE/редактор
+.vscode/
+.idea/
+*.code-workspace
+
+# Docker
+*.pid
+*.sock
+
+# Mac
+.DS_Store
+
+# Node/npm (если где-то есть)
+node_modules/
+
+# Тестовые/временные файлы
+coverage/
+dist/
+build/
+*.egg-info/
